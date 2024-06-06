@@ -23,7 +23,7 @@ body {
   text-align: center;
   width: 100%;
   background-color: var(--bg-color);
-  margin: 15px 15px;
+  padding: 24px 0;
 }
 
 .banner {
